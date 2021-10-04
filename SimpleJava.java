@@ -5,7 +5,7 @@ class SimpleJava {
         int numberB = 9;
         int numberC = numberA + numberB;
         System.out.println(numberC);
-        System.out.println(dog1.name);
+        System.out.println(dog1.getName());
         dog1.bark();
         Dog dog2 = new Dog("Kenny", 29, "haha!");
         dog2.bark();
